@@ -32,6 +32,7 @@ public class MainPageTest {
     @AfterEach
     public void tearDown() {
         driver.quit();
+        // привет
     }
 
     @Test
